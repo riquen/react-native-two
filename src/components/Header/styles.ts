@@ -1,7 +1,7 @@
 import styled from "styled-components/native";
 import { CaretLeft } from "phosphor-react-native";
 
-type ContainerProps = {
+export type ContainerProps = {
     showBackButton?: boolean
 }
 
